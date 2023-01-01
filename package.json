@@ -21,7 +21,9 @@
   "dependencies": {
     "bn.js": "^5.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "rollup": "^3.9.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
