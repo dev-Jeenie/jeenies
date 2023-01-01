@@ -1,14 +1,29 @@
 {
-  "name": "jeenies",
+  "name": "@jeenies/jeenies",
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
-  "repository": "https://github.com/dev-Jeenie/jeenies.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-Jeenie/jeenies.git"
+  },
   "author": "jeenie <devjeenie@gmail.com>",
   "license": "MIT",
   "workspaces": {
     "packages": [
       "packages/**"
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/dev-Jeenie/jeenies/issues"
+  },
+  "homepage": "https://github.com/dev-Jeenie/jeenies#readme",
+  "dependencies": {
+    "bn.js": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }

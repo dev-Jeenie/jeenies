@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@jeenies/number-formatter",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
